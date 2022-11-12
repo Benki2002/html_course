@@ -1,0 +1,30 @@
+.p1{
+    background-color: red;
+}
+
+.btn{
+  
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+   
+}
+.btn .btn-link{
+color: white;
+text-decoration: none;
+}
+
+
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.478);
+}
+
+.p2{color:red}
+.p3{color:grey}
+h1{
+  color:red
+}
